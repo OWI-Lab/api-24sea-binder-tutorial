@@ -1,0 +1,7 @@
+api-24sea
+pandas
+matplotlib
+seaborn
+python-dotenv
+
+
