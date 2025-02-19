@@ -1,6 +1,7 @@
 api-24sea[fatigue]
-pandas
+# pandas  # Imported by api-24sea
+# requests  # Imported by api-24sea
 matplotlib
 seaborn
-requests
+python-dotenv
 rich

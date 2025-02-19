@@ -2,6 +2,11 @@ set -ex
 
 # python build.py
 
+rm -rf .gitignore
+rm -rf .git
+rm -rf .binder
+
+
 # Setup a workspace
 # - activate the environment otherwise the workspace is imported
 #   in the user home folder rather than in the prefix path (new default)
