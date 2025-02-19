@@ -180,8 +180,8 @@ cython_debug/
 
 
 # data
-**/data/
-!**/data/.gitkeep
+data/**
+!data/**/.gitkeep
 **/database/
 !**/database/.gitkeep
 **/staticfiles/
