@@ -1,5 +1,6 @@
-api-24sea
+api-24sea[fatigue]
 pandas
 matplotlib
 seaborn
 requests
+rich
