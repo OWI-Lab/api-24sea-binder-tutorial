@@ -1,6 +1,6 @@
 # api-24sea-get-data-example
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/api-24sea-get-data-example/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWI-Lab/api-24sea-binder-tutorial/main)
 
 Example Jupyter Notebook to get data from the 24Sea API.
 
