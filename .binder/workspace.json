@@ -22,12 +22,14 @@
                             "type": "tab-area",
                             "currentIndex": 0,
                             "widgets": [
-                                "help-doc:https://jupyterlab.readthedocs.io/en/stable/"
+                                "help-doc:https://api24seapydocs.z6.web.core.windows.net/",
+                                "help-doc:https://api.24sea.eu/",
+                                "help-doc:https://owi-lab.github.io/py_fatigue/"
                             ]
                         }
                     ]
                 },
-                "current": "help-doc:https://jupyterlab.readthedocs.io/en/stable/"
+                "current": "help-doc:https://api24seapydocs.z6.web.core.windows.net/"
             },
             "down": {
                 "size": 0,
@@ -81,6 +83,12 @@
             "data": {
                 "url": "https://api.24sea.eu/",
                 "text": "OpenAPI 24SEA API documentation"
+            }
+        },
+        "help-doc:https://owi-lab.github.io/py_fatigue/": {
+            "data": {
+                "url": "https://owi-lab.github.io/py_fatigue/",
+                "text": "Py-fatigue documentation"
             }
         }
     },
