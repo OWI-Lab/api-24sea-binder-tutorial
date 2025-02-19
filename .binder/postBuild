@@ -1,6 +1,6 @@
 set -ex
 
-python build.py
+# python build.py
 
 # Setup a workspace
 # - activate the environment otherwise the workspace is imported
