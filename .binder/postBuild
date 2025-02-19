@@ -4,7 +4,6 @@ set -ex
 
 rm -rf .gitignore
 rm -rf .git
-rm -rf .binder
 
 
 # Setup a workspace
